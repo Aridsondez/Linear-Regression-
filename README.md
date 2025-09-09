@@ -1,4 +1,4 @@
-# CAP 4630 HW1 — Linear Regression with Gradient Descent (Problem 1)
+# HW1 — Linear Regression with Gradient Descent (Problem 1)
 
 This README is your step-by-step guide to complete **Problem 1** and earn full credit. It explains what to implement, what to document, how to validate your results, and exactly what to include in your submission.
 
